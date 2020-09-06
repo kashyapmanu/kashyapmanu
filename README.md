@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android Development, Web Development, ML, Big Data, Computer Graphics**
 
-- 👨‍💻 Visit me at [www.manukashyap.xyz](www.manukashyap.xyz)
+- 👨‍💻 Visit me at [www.manukashyap.xyz](https://manukashyap.xyz/)
 
 - ⚡ Fun fact **Anime fan for life**
 
