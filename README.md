@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manukashyap U V</h1>
-<h3 align="center">Student and Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer at Sony and Trying to be good at software engineering</h3>
 
-
+<p align="center">Always open to any guidance</p?
 
 
 <p align="center">
