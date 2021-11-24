@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manukashyap U V</h1>
-<h3 align="center">Software Engineer at Sony and Trying to be good at software engineering</h3>
+<h3 align="center">Software Engineer and Trying to be good at software engineering</h3>
 
 <p align="center">Always open to any guidance</p?
-
+<br>
 
 <p align="center">
   <a href="https://manukashyap.xyz/">manukashyap.xyz</a> <br>
