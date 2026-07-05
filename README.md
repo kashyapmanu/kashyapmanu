@@ -6,12 +6,6 @@
   Building AI agents, full-stack applications, mobile experiences, and health-tech tools.
 </p>
 
-<p align="center">
-  <a href="https://www.manukashyap.xyz">Website</a> ·
-  <a href="https://www.linkedin.com/in/manukashyapuv">LinkedIn</a> ·
-  <a href="https://x.com/manukashyapuv">X / Twitter</a>
-</p>
-
 ---
 
 ## About me
