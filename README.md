@@ -14,7 +14,7 @@ I am a software engineer who enjoys turning complex problems into clean, working
 
 - **Current focus:** AI agents, TypeScript/React frontends, Spring Boot microservices, iOS/Android apps
 - **Languages:** TypeScript, Java, Python, Swift, Kotlin, C/C++, Go
-- **Industries:** Consumer electronics, health tech, ed-tech, developer tooling
+- **Industries:** Supply Chain, Consumer electronics, health tech, ed-tech, developer tooling
 
 ---
 
